@@ -1,8 +1,8 @@
 {
     "turtleneo@outlook.com": {
-        "Last check": "2023-05-04",
-        "Today's points": 636,
-        "Points": 4495
+        "Last check": "2023-05-05",
+        "Today's points": 430,
+        "Points": 925
     },
-    "Elapsed time": "00:13:23"
+    "Elapsed time": "00:13:03"
 }
